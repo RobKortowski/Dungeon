@@ -50,6 +50,7 @@ CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o
  src/main/headers/RoomManager.h
  src/main/headers/TripleMutex.h
  src/main/headers/publicInfo.h
+ src/main/headers/util/Dbg.h
 CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/ConnManager.cpp
  src/main/headers/Action.h
@@ -93,6 +94,7 @@ CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o
  src/main/headers/RoomManager.h
  src/main/headers/TripleMutex.h
  src/main/headers/publicInfo.h
+ src/main/headers/util/Dbg.h
 CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Entity.cpp
  src/main/headers/Action.h
@@ -120,6 +122,7 @@ CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
+ src/main/headers/util/Dbg.h
 CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Interpreter.cpp
  src/main/headers/Interpreter.h
@@ -152,6 +155,7 @@ CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
+ src/main/headers/util/Dbg.h
 CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Room.cpp
  src/main/headers/Action.h
@@ -188,9 +192,7 @@ CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o
  src/main/headers/RoomManager.h
  src/main/headers/TripleMutex.h
  src/main/headers/publicInfo.h
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/Settings.cpp
- src/main/headers/util/Settings.h
+ src/main/headers/util/Dbg.h
 CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp
  src/main/headers/TripleMutex.h
@@ -215,10 +217,15 @@ CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o
  src/main/headers/RoomManager.h
  src/main/headers/TripleMutex.h
  src/main/headers/publicInfo.h
+ src/main/headers/util/Dbg.h
  src/main/headers/util/Settings.h
 CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/publicInfo.cpp
  src/main/headers/publicInfo.h
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/util/Dbg.cpp
+ src/main/headers/util/Dbg.h
+ src/main/headers/util/Settings.h
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp
  src/main/headers/util/Settings.h

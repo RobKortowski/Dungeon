@@ -35,8 +35,8 @@ thread
 -
 ConnAccepter.h
 /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.h
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
 Connection.h
 /home/rob/projects/Dungeon/src/main/sources/Connection.h
 stdio.h
@@ -81,8 +81,8 @@ exception
 /home/rob/projects/Dungeon/src/main/sources/Connection.cpp
 Connection.h
 /home/rob/projects/Dungeon/src/main/sources/Connection.h
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
 ConnAccepter.h
 /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.h
 sys/types.h
@@ -103,8 +103,8 @@ vector
 -
 Game.h
 /home/rob/projects/Dungeon/src/main/sources/Game.h
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
 
 /home/rob/projects/Dungeon/src/main/sources/Interpreter.cpp
 Interpreter.h
@@ -137,8 +137,8 @@ vector
 /home/rob/projects/Dungeon/src/main/sources/Player.cpp
 Player.h
 /home/rob/projects/Dungeon/src/main/sources/Player.h
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
 Map.h
 /home/rob/projects/Dungeon/src/main/sources/Map.h
 string
@@ -155,16 +155,12 @@ Game.h
 /home/rob/projects/Dungeon/src/main/sources/RoomManager.cpp
 RoomManager.h
 /home/rob/projects/Dungeon/src/main/sources/RoomManager.h
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
 sstream
 -
 chrono
 -
-
-/home/rob/projects/Dungeon/src/main/sources/Settings.cpp
-util/Settings.h
-/home/rob/projects/Dungeon/src/main/sources/util/Settings.h
 
 /home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp
 TripleMutex.h
@@ -181,8 +177,8 @@ ConnAccepter.h
 /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.h
 util/Settings.h
 /home/rob/projects/Dungeon/src/main/sources/util/Settings.h
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
 RoomManager.h
 /home/rob/projects/Dungeon/src/main/sources/RoomManager.h
 
@@ -191,10 +187,14 @@ publicInfo.h
 /home/rob/projects/Dungeon/src/main/sources/publicInfo.h
 
 /home/rob/projects/Dungeon/src/main/sources/util/Dbg.cpp
-Dbg.h
-/home/rob/projects/Dungeon/src/main/sources/util/Dbg.h
+util/Dbg.h
+/home/rob/projects/Dungeon/src/main/sources/util/util/Dbg.h
 iostream
 -
+util/Settings.h
+/home/rob/projects/Dungeon/src/main/sources/util/util/Settings.h
+
+/home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp
 util/Settings.h
 /home/rob/projects/Dungeon/src/main/sources/util/util/Settings.h
 

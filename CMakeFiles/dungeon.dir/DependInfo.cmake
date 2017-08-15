@@ -17,11 +17,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/rob/projects/Dungeon/src/main/sources/Player.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o"
   "/home/rob/projects/Dungeon/src/main/sources/Room.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o"
   "/home/rob/projects/Dungeon/src/main/sources/RoomManager.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o"
-  "/home/rob/projects/Dungeon/src/main/sources/Settings.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o"
   "/home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o"
   "/home/rob/projects/Dungeon/src/main/sources/main.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o"
   "/home/rob/projects/Dungeon/src/main/sources/publicInfo.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o"
   "/home/rob/projects/Dungeon/src/main/sources/util/Dbg.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o"
+  "/home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp" "/home/rob/projects/Dungeon/CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

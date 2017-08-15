@@ -321,28 +321,28 @@ CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o.provides: CMakeFiles/dung
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o
 
 
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o: src/main/sources/Settings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Settings.cpp
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o: src/main/sources/util/Settings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp
 
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/Settings.cpp > CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.i
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp > CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.i
 
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/Settings.cpp -o CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.s
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp -o CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.s
 
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.requires:
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.requires:
 
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.requires
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.requires
 
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.provides
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.provides
 
-CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o
+CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
 
 
 CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o: CMakeFiles/dungeon.dir/flags.make
@@ -502,7 +502,7 @@ dungeon_OBJECTS = \
 "CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o" \
@@ -524,7 +524,7 @@ bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o
@@ -552,7 +552,7 @@ CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Map.cpp
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.requires

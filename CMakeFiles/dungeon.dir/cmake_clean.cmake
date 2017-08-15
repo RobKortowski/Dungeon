@@ -10,7 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o"
   "CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o"
   "CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o"
-  "CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o"
+  "CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o"
   "CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o"
   "CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o"
   "CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o"

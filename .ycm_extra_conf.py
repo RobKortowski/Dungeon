@@ -5,6 +5,8 @@ flags = [
 '-std=c++11',
 '-x',
 'c++',
+'-I',
+'/home/rob/projects/Dungeon/src/main/headers',
 '-isystem',
 '/usr/local/include',
 '-isystem',
@@ -12,21 +14,8 @@ flags = [
 '-isystem',
 '/usr/include/x86_64-linux-gnu',
 '-isystem',
-'/usr/include',
-'-I',
-'./src/main/headers'
-#'-isystem',
-#'./tests/gmock/gtest',
-#'-isystem',
-#'./tests/gmock/gtest/include',
-#'-isystem',
-#'./tests/gmock',
-#'-isystem',
-#'./tests/gmock/include',
+'/usr/include'
 ]
-
-
-
 
 def FlagsForFile( filename, **kwargs ):
     return { 'flags': flags }

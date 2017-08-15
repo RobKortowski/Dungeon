@@ -474,33 +474,6 @@ src/main/sources/RoomManager.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.s
 .PHONY : src/main/sources/RoomManager.cpp.s
 
-src/main/sources/Settings.o: src/main/sources/Settings.cpp.o
-
-.PHONY : src/main/sources/Settings.o
-
-# target to build an object file
-src/main/sources/Settings.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.o
-.PHONY : src/main/sources/Settings.cpp.o
-
-src/main/sources/Settings.i: src/main/sources/Settings.cpp.i
-
-.PHONY : src/main/sources/Settings.i
-
-# target to preprocess a source file
-src/main/sources/Settings.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.i
-.PHONY : src/main/sources/Settings.cpp.i
-
-src/main/sources/Settings.s: src/main/sources/Settings.cpp.s
-
-.PHONY : src/main/sources/Settings.s
-
-# target to generate assembly for a file
-src/main/sources/Settings.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Settings.cpp.s
-.PHONY : src/main/sources/Settings.cpp.s
-
 src/main/sources/TripleMutex.o: src/main/sources/TripleMutex.cpp.o
 
 .PHONY : src/main/sources/TripleMutex.o
@@ -609,6 +582,33 @@ src/main/sources/util/Dbg.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.s
 .PHONY : src/main/sources/util/Dbg.cpp.s
 
+src/main/sources/util/Settings.o: src/main/sources/util/Settings.cpp.o
+
+.PHONY : src/main/sources/util/Settings.o
+
+# target to build an object file
+src/main/sources/util/Settings.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
+.PHONY : src/main/sources/util/Settings.cpp.o
+
+src/main/sources/util/Settings.i: src/main/sources/util/Settings.cpp.i
+
+.PHONY : src/main/sources/util/Settings.i
+
+# target to preprocess a source file
+src/main/sources/util/Settings.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.i
+.PHONY : src/main/sources/util/Settings.cpp.i
+
+src/main/sources/util/Settings.s: src/main/sources/util/Settings.cpp.s
+
+.PHONY : src/main/sources/util/Settings.s
+
+# target to generate assembly for a file
+src/main/sources/util/Settings.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.s
+.PHONY : src/main/sources/util/Settings.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -657,9 +657,6 @@ help:
 	@echo "... src/main/sources/RoomManager.o"
 	@echo "... src/main/sources/RoomManager.i"
 	@echo "... src/main/sources/RoomManager.s"
-	@echo "... src/main/sources/Settings.o"
-	@echo "... src/main/sources/Settings.i"
-	@echo "... src/main/sources/Settings.s"
 	@echo "... src/main/sources/TripleMutex.o"
 	@echo "... src/main/sources/TripleMutex.i"
 	@echo "... src/main/sources/TripleMutex.s"
@@ -672,6 +669,9 @@ help:
 	@echo "... src/main/sources/util/Dbg.o"
 	@echo "... src/main/sources/util/Dbg.i"
 	@echo "... src/main/sources/util/Dbg.s"
+	@echo "... src/main/sources/util/Settings.o"
+	@echo "... src/main/sources/util/Settings.i"
+	@echo "... src/main/sources/util/Settings.s"
 .PHONY : help
 
 
