@@ -1,8 +1,8 @@
 #include <iostream>
 #include <thread>
-#include "ConnAccepter.h"
+#include "connections/ConnAccepter.h"
 #include "util/Dbg.h"
-#include "Connection.h"
+#include "connections/Connection.h"
 
 #include <stdio.h>
 #include <stdlib.h>

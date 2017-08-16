@@ -22,99 +22,32 @@ CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
  src/main/headers/Circle.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/InnerCube.h
  src/main/headers/InnerCubeSeed.h
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.cpp
- src/main/headers/Action.h
- src/main/headers/Block.h
- src/main/headers/Chunk.h
- src/main/headers/ChunkSeed.h
- src/main/headers/ConnAccepter.h
- src/main/headers/ConnManager.h
- src/main/headers/Connection.h
- src/main/headers/Entity.h
- src/main/headers/Game.h
- src/main/headers/InnerCube.h
- src/main/headers/InnerCubeSeed.h
- src/main/headers/Interpreter.h
- src/main/headers/Loggable.h
- src/main/headers/Map.h
- src/main/headers/Player.h
- src/main/headers/Room.h
- src/main/headers/RoomManager.h
- src/main/headers/TripleMutex.h
- src/main/headers/publicInfo.h
- src/main/headers/util/Dbg.h
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/ConnManager.cpp
- src/main/headers/Action.h
- src/main/headers/Block.h
- src/main/headers/Chunk.h
- src/main/headers/ChunkSeed.h
- src/main/headers/ConnManager.h
- src/main/headers/Connection.h
- src/main/headers/Entity.h
- src/main/headers/Game.h
- src/main/headers/InnerCube.h
- src/main/headers/InnerCubeSeed.h
- src/main/headers/Interpreter.h
- src/main/headers/Loggable.h
- src/main/headers/Map.h
- src/main/headers/Player.h
- src/main/headers/Room.h
- src/main/headers/RoomManager.h
- src/main/headers/TripleMutex.h
- src/main/headers/publicInfo.h
- src/main/headers/util/Dbg.h
- src/main/headers/util/Settings.h
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/Connection.cpp
- src/main/headers/Action.h
- src/main/headers/Block.h
- src/main/headers/Chunk.h
- src/main/headers/ChunkSeed.h
- src/main/headers/ConnAccepter.h
- src/main/headers/ConnManager.h
- src/main/headers/Connection.h
- src/main/headers/Entity.h
- src/main/headers/Game.h
- src/main/headers/InnerCube.h
- src/main/headers/InnerCubeSeed.h
- src/main/headers/Interpreter.h
- src/main/headers/Loggable.h
- src/main/headers/Map.h
- src/main/headers/Player.h
- src/main/headers/Room.h
- src/main/headers/RoomManager.h
- src/main/headers/TripleMutex.h
- src/main/headers/publicInfo.h
- src/main/headers/util/Dbg.h
+ src/main/headers/connections/Connection.h
 CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Entity.cpp
  src/main/headers/Action.h
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/InnerCube.h
  src/main/headers/InnerCubeSeed.h
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
+ src/main/headers/connections/Connection.h
 CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Game.cpp
  src/main/headers/Action.h
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/Game.h
  src/main/headers/InnerCube.h
@@ -122,10 +55,7 @@ CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
- src/main/headers/util/Dbg.h
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/Interpreter.cpp
- src/main/headers/Interpreter.h
+ src/main/headers/connections/Connection.h
  src/main/headers/util/Dbg.h
 CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Map.cpp
@@ -134,7 +64,6 @@ CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/Connection.h
  src/main/headers/Dirt.h
  src/main/headers/Entity.h
  src/main/headers/InnerCube.h
@@ -142,27 +71,27 @@ CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
+ src/main/headers/connections/Connection.h
 CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/Player.cpp
  src/main/headers/Action.h
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/InnerCube.h
  src/main/headers/InnerCubeSeed.h
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
+ src/main/headers/connections/Connection.h
  src/main/headers/util/Dbg.h
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/Room.cpp
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/connections/ConnAccepter.cpp
  src/main/headers/Action.h
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/Game.h
  src/main/headers/InnerCube.h
@@ -170,17 +99,21 @@ CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
- src/main/headers/Room.h
- src/main/headers/TripleMutex.h
- src/main/headers/publicInfo.h
+ src/main/headers/connections/ConnAccepter.h
+ src/main/headers/connections/ConnManager.h
+ src/main/headers/connections/Connection.h
+ src/main/headers/connections/Room.h
+ src/main/headers/connections/RoomManager.h
+ src/main/headers/connections/publicInfo.h
  src/main/headers/util/Dbg.h
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/RoomManager.cpp
+ src/main/headers/util/Interpreter.h
+ src/main/headers/util/TripleMutex.h
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/connections/ConnManager.cpp
  src/main/headers/Action.h
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/Game.h
  src/main/headers/InnerCube.h
@@ -188,44 +121,111 @@ CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
- src/main/headers/Room.h
- src/main/headers/RoomManager.h
- src/main/headers/TripleMutex.h
- src/main/headers/publicInfo.h
+ src/main/headers/connections/ConnManager.h
+ src/main/headers/connections/Connection.h
+ src/main/headers/connections/Room.h
+ src/main/headers/connections/RoomManager.h
+ src/main/headers/connections/publicInfo.h
  src/main/headers/util/Dbg.h
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp
- src/main/headers/TripleMutex.h
+ src/main/headers/util/Interpreter.h
+ src/main/headers/util/Settings.h
+ src/main/headers/util/TripleMutex.h
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/connections/Connection.cpp
+ src/main/headers/Action.h
+ src/main/headers/Block.h
+ src/main/headers/Chunk.h
+ src/main/headers/ChunkSeed.h
+ src/main/headers/Entity.h
+ src/main/headers/Game.h
+ src/main/headers/InnerCube.h
+ src/main/headers/InnerCubeSeed.h
+ src/main/headers/Loggable.h
+ src/main/headers/Map.h
+ src/main/headers/Player.h
+ src/main/headers/connections/ConnAccepter.h
+ src/main/headers/connections/ConnManager.h
+ src/main/headers/connections/Connection.h
+ src/main/headers/connections/Room.h
+ src/main/headers/connections/RoomManager.h
+ src/main/headers/connections/publicInfo.h
+ src/main/headers/util/Dbg.h
+ src/main/headers/util/Interpreter.h
+ src/main/headers/util/TripleMutex.h
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/connections/Room.cpp
+ src/main/headers/Action.h
+ src/main/headers/Block.h
+ src/main/headers/Chunk.h
+ src/main/headers/ChunkSeed.h
+ src/main/headers/Entity.h
+ src/main/headers/Game.h
+ src/main/headers/InnerCube.h
+ src/main/headers/InnerCubeSeed.h
+ src/main/headers/Loggable.h
+ src/main/headers/Map.h
+ src/main/headers/Player.h
+ src/main/headers/connections/Connection.h
+ src/main/headers/connections/Room.h
+ src/main/headers/connections/publicInfo.h
+ src/main/headers/util/Dbg.h
+ src/main/headers/util/TripleMutex.h
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/connections/RoomManager.cpp
+ src/main/headers/Action.h
+ src/main/headers/Block.h
+ src/main/headers/Chunk.h
+ src/main/headers/ChunkSeed.h
+ src/main/headers/Entity.h
+ src/main/headers/Game.h
+ src/main/headers/InnerCube.h
+ src/main/headers/InnerCubeSeed.h
+ src/main/headers/Loggable.h
+ src/main/headers/Map.h
+ src/main/headers/Player.h
+ src/main/headers/connections/Connection.h
+ src/main/headers/connections/Room.h
+ src/main/headers/connections/RoomManager.h
+ src/main/headers/connections/publicInfo.h
+ src/main/headers/util/Dbg.h
+ src/main/headers/util/TripleMutex.h
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/connections/publicInfo.cpp
+ src/main/headers/connections/publicInfo.h
 CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/main.cpp
  src/main/headers/Action.h
  src/main/headers/Block.h
  src/main/headers/Chunk.h
  src/main/headers/ChunkSeed.h
- src/main/headers/ConnAccepter.h
- src/main/headers/ConnManager.h
- src/main/headers/Connection.h
  src/main/headers/Entity.h
  src/main/headers/Game.h
  src/main/headers/InnerCube.h
  src/main/headers/InnerCubeSeed.h
- src/main/headers/Interpreter.h
  src/main/headers/Loggable.h
  src/main/headers/Map.h
  src/main/headers/Player.h
- src/main/headers/Room.h
- src/main/headers/RoomManager.h
- src/main/headers/TripleMutex.h
- src/main/headers/publicInfo.h
+ src/main/headers/connections/ConnAccepter.h
+ src/main/headers/connections/ConnManager.h
+ src/main/headers/connections/Connection.h
+ src/main/headers/connections/Room.h
+ src/main/headers/connections/RoomManager.h
+ src/main/headers/connections/publicInfo.h
  src/main/headers/util/Dbg.h
+ src/main/headers/util/Interpreter.h
  src/main/headers/util/Settings.h
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o
- /home/rob/projects/Dungeon/src/main/sources/publicInfo.cpp
- src/main/headers/publicInfo.h
+ src/main/headers/util/TripleMutex.h
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/util/Dbg.cpp
  src/main/headers/util/Dbg.h
  src/main/headers/util/Settings.h
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/util/Interpreter.cpp
+ src/main/headers/util/Dbg.h
+ src/main/headers/util/Interpreter.h
 CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
  /home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp
  src/main/headers/util/Settings.h
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o
+ /home/rob/projects/Dungeon/src/main/sources/util/TripleMutex.cpp
+ src/main/headers/util/TripleMutex.h

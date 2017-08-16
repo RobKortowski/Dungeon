@@ -11,7 +11,7 @@
  * Created on February 19, 2017, 9:37 PM
  */
 
-#include "RoomManager.h"
+#include "connections/RoomManager.h"
 #include "util/Dbg.h"
 #include <sstream>
 #include <chrono>

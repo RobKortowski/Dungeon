@@ -11,7 +11,7 @@
  * Created on February 20, 2017, 12:32 AM
  */
 
-#include "Room.h"
+#include "connections/Room.h"
 #include "util/Dbg.h"
 #include "Game.h"
 

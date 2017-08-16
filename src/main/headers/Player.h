@@ -14,7 +14,7 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
-#include "Connection.h"
+#include "connections/Connection.h"
 #include "Entity.h"
 #include <string>
 

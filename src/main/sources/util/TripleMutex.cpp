@@ -11,7 +11,7 @@
  * Created on February 20, 2017, 8:44 PM
  */
 
-#include "TripleMutex.h"
+#include "util/TripleMutex.h"
 
 TripleMutex::TripleMutex() {
 }

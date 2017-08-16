@@ -204,87 +204,6 @@ src/main/sources/Circle.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.s
 .PHONY : src/main/sources/Circle.cpp.s
 
-src/main/sources/ConnAccepter.o: src/main/sources/ConnAccepter.cpp.o
-
-.PHONY : src/main/sources/ConnAccepter.o
-
-# target to build an object file
-src/main/sources/ConnAccepter.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o
-.PHONY : src/main/sources/ConnAccepter.cpp.o
-
-src/main/sources/ConnAccepter.i: src/main/sources/ConnAccepter.cpp.i
-
-.PHONY : src/main/sources/ConnAccepter.i
-
-# target to preprocess a source file
-src/main/sources/ConnAccepter.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.i
-.PHONY : src/main/sources/ConnAccepter.cpp.i
-
-src/main/sources/ConnAccepter.s: src/main/sources/ConnAccepter.cpp.s
-
-.PHONY : src/main/sources/ConnAccepter.s
-
-# target to generate assembly for a file
-src/main/sources/ConnAccepter.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.s
-.PHONY : src/main/sources/ConnAccepter.cpp.s
-
-src/main/sources/ConnManager.o: src/main/sources/ConnManager.cpp.o
-
-.PHONY : src/main/sources/ConnManager.o
-
-# target to build an object file
-src/main/sources/ConnManager.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o
-.PHONY : src/main/sources/ConnManager.cpp.o
-
-src/main/sources/ConnManager.i: src/main/sources/ConnManager.cpp.i
-
-.PHONY : src/main/sources/ConnManager.i
-
-# target to preprocess a source file
-src/main/sources/ConnManager.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.i
-.PHONY : src/main/sources/ConnManager.cpp.i
-
-src/main/sources/ConnManager.s: src/main/sources/ConnManager.cpp.s
-
-.PHONY : src/main/sources/ConnManager.s
-
-# target to generate assembly for a file
-src/main/sources/ConnManager.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.s
-.PHONY : src/main/sources/ConnManager.cpp.s
-
-src/main/sources/Connection.o: src/main/sources/Connection.cpp.o
-
-.PHONY : src/main/sources/Connection.o
-
-# target to build an object file
-src/main/sources/Connection.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o
-.PHONY : src/main/sources/Connection.cpp.o
-
-src/main/sources/Connection.i: src/main/sources/Connection.cpp.i
-
-.PHONY : src/main/sources/Connection.i
-
-# target to preprocess a source file
-src/main/sources/Connection.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.i
-.PHONY : src/main/sources/Connection.cpp.i
-
-src/main/sources/Connection.s: src/main/sources/Connection.cpp.s
-
-.PHONY : src/main/sources/Connection.s
-
-# target to generate assembly for a file
-src/main/sources/Connection.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.s
-.PHONY : src/main/sources/Connection.cpp.s
-
 src/main/sources/Entity.o: src/main/sources/Entity.cpp.o
 
 .PHONY : src/main/sources/Entity.o
@@ -338,33 +257,6 @@ src/main/sources/Game.s: src/main/sources/Game.cpp.s
 src/main/sources/Game.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.s
 .PHONY : src/main/sources/Game.cpp.s
-
-src/main/sources/Interpreter.o: src/main/sources/Interpreter.cpp.o
-
-.PHONY : src/main/sources/Interpreter.o
-
-# target to build an object file
-src/main/sources/Interpreter.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o
-.PHONY : src/main/sources/Interpreter.cpp.o
-
-src/main/sources/Interpreter.i: src/main/sources/Interpreter.cpp.i
-
-.PHONY : src/main/sources/Interpreter.i
-
-# target to preprocess a source file
-src/main/sources/Interpreter.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.i
-.PHONY : src/main/sources/Interpreter.cpp.i
-
-src/main/sources/Interpreter.s: src/main/sources/Interpreter.cpp.s
-
-.PHONY : src/main/sources/Interpreter.s
-
-# target to generate assembly for a file
-src/main/sources/Interpreter.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.s
-.PHONY : src/main/sources/Interpreter.cpp.s
 
 src/main/sources/Map.o: src/main/sources/Map.cpp.o
 
@@ -420,86 +312,167 @@ src/main/sources/Player.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.s
 .PHONY : src/main/sources/Player.cpp.s
 
-src/main/sources/Room.o: src/main/sources/Room.cpp.o
+src/main/sources/connections/ConnAccepter.o: src/main/sources/connections/ConnAccepter.cpp.o
 
-.PHONY : src/main/sources/Room.o
-
-# target to build an object file
-src/main/sources/Room.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o
-.PHONY : src/main/sources/Room.cpp.o
-
-src/main/sources/Room.i: src/main/sources/Room.cpp.i
-
-.PHONY : src/main/sources/Room.i
-
-# target to preprocess a source file
-src/main/sources/Room.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.i
-.PHONY : src/main/sources/Room.cpp.i
-
-src/main/sources/Room.s: src/main/sources/Room.cpp.s
-
-.PHONY : src/main/sources/Room.s
-
-# target to generate assembly for a file
-src/main/sources/Room.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.s
-.PHONY : src/main/sources/Room.cpp.s
-
-src/main/sources/RoomManager.o: src/main/sources/RoomManager.cpp.o
-
-.PHONY : src/main/sources/RoomManager.o
+.PHONY : src/main/sources/connections/ConnAccepter.o
 
 # target to build an object file
-src/main/sources/RoomManager.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o
-.PHONY : src/main/sources/RoomManager.cpp.o
+src/main/sources/connections/ConnAccepter.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o
+.PHONY : src/main/sources/connections/ConnAccepter.cpp.o
 
-src/main/sources/RoomManager.i: src/main/sources/RoomManager.cpp.i
+src/main/sources/connections/ConnAccepter.i: src/main/sources/connections/ConnAccepter.cpp.i
 
-.PHONY : src/main/sources/RoomManager.i
+.PHONY : src/main/sources/connections/ConnAccepter.i
 
 # target to preprocess a source file
-src/main/sources/RoomManager.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.i
-.PHONY : src/main/sources/RoomManager.cpp.i
+src/main/sources/connections/ConnAccepter.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.i
+.PHONY : src/main/sources/connections/ConnAccepter.cpp.i
 
-src/main/sources/RoomManager.s: src/main/sources/RoomManager.cpp.s
+src/main/sources/connections/ConnAccepter.s: src/main/sources/connections/ConnAccepter.cpp.s
 
-.PHONY : src/main/sources/RoomManager.s
+.PHONY : src/main/sources/connections/ConnAccepter.s
 
 # target to generate assembly for a file
-src/main/sources/RoomManager.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.s
-.PHONY : src/main/sources/RoomManager.cpp.s
+src/main/sources/connections/ConnAccepter.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.s
+.PHONY : src/main/sources/connections/ConnAccepter.cpp.s
 
-src/main/sources/TripleMutex.o: src/main/sources/TripleMutex.cpp.o
+src/main/sources/connections/ConnManager.o: src/main/sources/connections/ConnManager.cpp.o
 
-.PHONY : src/main/sources/TripleMutex.o
+.PHONY : src/main/sources/connections/ConnManager.o
 
 # target to build an object file
-src/main/sources/TripleMutex.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o
-.PHONY : src/main/sources/TripleMutex.cpp.o
+src/main/sources/connections/ConnManager.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o
+.PHONY : src/main/sources/connections/ConnManager.cpp.o
 
-src/main/sources/TripleMutex.i: src/main/sources/TripleMutex.cpp.i
+src/main/sources/connections/ConnManager.i: src/main/sources/connections/ConnManager.cpp.i
 
-.PHONY : src/main/sources/TripleMutex.i
+.PHONY : src/main/sources/connections/ConnManager.i
 
 # target to preprocess a source file
-src/main/sources/TripleMutex.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.i
-.PHONY : src/main/sources/TripleMutex.cpp.i
+src/main/sources/connections/ConnManager.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.i
+.PHONY : src/main/sources/connections/ConnManager.cpp.i
 
-src/main/sources/TripleMutex.s: src/main/sources/TripleMutex.cpp.s
+src/main/sources/connections/ConnManager.s: src/main/sources/connections/ConnManager.cpp.s
 
-.PHONY : src/main/sources/TripleMutex.s
+.PHONY : src/main/sources/connections/ConnManager.s
 
 # target to generate assembly for a file
-src/main/sources/TripleMutex.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.s
-.PHONY : src/main/sources/TripleMutex.cpp.s
+src/main/sources/connections/ConnManager.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.s
+.PHONY : src/main/sources/connections/ConnManager.cpp.s
+
+src/main/sources/connections/Connection.o: src/main/sources/connections/Connection.cpp.o
+
+.PHONY : src/main/sources/connections/Connection.o
+
+# target to build an object file
+src/main/sources/connections/Connection.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o
+.PHONY : src/main/sources/connections/Connection.cpp.o
+
+src/main/sources/connections/Connection.i: src/main/sources/connections/Connection.cpp.i
+
+.PHONY : src/main/sources/connections/Connection.i
+
+# target to preprocess a source file
+src/main/sources/connections/Connection.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.i
+.PHONY : src/main/sources/connections/Connection.cpp.i
+
+src/main/sources/connections/Connection.s: src/main/sources/connections/Connection.cpp.s
+
+.PHONY : src/main/sources/connections/Connection.s
+
+# target to generate assembly for a file
+src/main/sources/connections/Connection.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.s
+.PHONY : src/main/sources/connections/Connection.cpp.s
+
+src/main/sources/connections/Room.o: src/main/sources/connections/Room.cpp.o
+
+.PHONY : src/main/sources/connections/Room.o
+
+# target to build an object file
+src/main/sources/connections/Room.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o
+.PHONY : src/main/sources/connections/Room.cpp.o
+
+src/main/sources/connections/Room.i: src/main/sources/connections/Room.cpp.i
+
+.PHONY : src/main/sources/connections/Room.i
+
+# target to preprocess a source file
+src/main/sources/connections/Room.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.i
+.PHONY : src/main/sources/connections/Room.cpp.i
+
+src/main/sources/connections/Room.s: src/main/sources/connections/Room.cpp.s
+
+.PHONY : src/main/sources/connections/Room.s
+
+# target to generate assembly for a file
+src/main/sources/connections/Room.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.s
+.PHONY : src/main/sources/connections/Room.cpp.s
+
+src/main/sources/connections/RoomManager.o: src/main/sources/connections/RoomManager.cpp.o
+
+.PHONY : src/main/sources/connections/RoomManager.o
+
+# target to build an object file
+src/main/sources/connections/RoomManager.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o
+.PHONY : src/main/sources/connections/RoomManager.cpp.o
+
+src/main/sources/connections/RoomManager.i: src/main/sources/connections/RoomManager.cpp.i
+
+.PHONY : src/main/sources/connections/RoomManager.i
+
+# target to preprocess a source file
+src/main/sources/connections/RoomManager.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.i
+.PHONY : src/main/sources/connections/RoomManager.cpp.i
+
+src/main/sources/connections/RoomManager.s: src/main/sources/connections/RoomManager.cpp.s
+
+.PHONY : src/main/sources/connections/RoomManager.s
+
+# target to generate assembly for a file
+src/main/sources/connections/RoomManager.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.s
+.PHONY : src/main/sources/connections/RoomManager.cpp.s
+
+src/main/sources/connections/publicInfo.o: src/main/sources/connections/publicInfo.cpp.o
+
+.PHONY : src/main/sources/connections/publicInfo.o
+
+# target to build an object file
+src/main/sources/connections/publicInfo.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o
+.PHONY : src/main/sources/connections/publicInfo.cpp.o
+
+src/main/sources/connections/publicInfo.i: src/main/sources/connections/publicInfo.cpp.i
+
+.PHONY : src/main/sources/connections/publicInfo.i
+
+# target to preprocess a source file
+src/main/sources/connections/publicInfo.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.i
+.PHONY : src/main/sources/connections/publicInfo.cpp.i
+
+src/main/sources/connections/publicInfo.s: src/main/sources/connections/publicInfo.cpp.s
+
+.PHONY : src/main/sources/connections/publicInfo.s
+
+# target to generate assembly for a file
+src/main/sources/connections/publicInfo.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.s
+.PHONY : src/main/sources/connections/publicInfo.cpp.s
 
 src/main/sources/main.o: src/main/sources/main.cpp.o
 
@@ -528,33 +501,6 @@ src/main/sources/main.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/main.cpp.s
 .PHONY : src/main/sources/main.cpp.s
 
-src/main/sources/publicInfo.o: src/main/sources/publicInfo.cpp.o
-
-.PHONY : src/main/sources/publicInfo.o
-
-# target to build an object file
-src/main/sources/publicInfo.cpp.o:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o
-.PHONY : src/main/sources/publicInfo.cpp.o
-
-src/main/sources/publicInfo.i: src/main/sources/publicInfo.cpp.i
-
-.PHONY : src/main/sources/publicInfo.i
-
-# target to preprocess a source file
-src/main/sources/publicInfo.cpp.i:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.i
-.PHONY : src/main/sources/publicInfo.cpp.i
-
-src/main/sources/publicInfo.s: src/main/sources/publicInfo.cpp.s
-
-.PHONY : src/main/sources/publicInfo.s
-
-# target to generate assembly for a file
-src/main/sources/publicInfo.cpp.s:
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.s
-.PHONY : src/main/sources/publicInfo.cpp.s
-
 src/main/sources/util/Dbg.o: src/main/sources/util/Dbg.cpp.o
 
 .PHONY : src/main/sources/util/Dbg.o
@@ -581,6 +527,33 @@ src/main/sources/util/Dbg.s: src/main/sources/util/Dbg.cpp.s
 src/main/sources/util/Dbg.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.s
 .PHONY : src/main/sources/util/Dbg.cpp.s
+
+src/main/sources/util/Interpreter.o: src/main/sources/util/Interpreter.cpp.o
+
+.PHONY : src/main/sources/util/Interpreter.o
+
+# target to build an object file
+src/main/sources/util/Interpreter.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o
+.PHONY : src/main/sources/util/Interpreter.cpp.o
+
+src/main/sources/util/Interpreter.i: src/main/sources/util/Interpreter.cpp.i
+
+.PHONY : src/main/sources/util/Interpreter.i
+
+# target to preprocess a source file
+src/main/sources/util/Interpreter.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.i
+.PHONY : src/main/sources/util/Interpreter.cpp.i
+
+src/main/sources/util/Interpreter.s: src/main/sources/util/Interpreter.cpp.s
+
+.PHONY : src/main/sources/util/Interpreter.s
+
+# target to generate assembly for a file
+src/main/sources/util/Interpreter.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.s
+.PHONY : src/main/sources/util/Interpreter.cpp.s
 
 src/main/sources/util/Settings.o: src/main/sources/util/Settings.cpp.o
 
@@ -609,6 +582,33 @@ src/main/sources/util/Settings.cpp.s:
 	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.s
 .PHONY : src/main/sources/util/Settings.cpp.s
 
+src/main/sources/util/TripleMutex.o: src/main/sources/util/TripleMutex.cpp.o
+
+.PHONY : src/main/sources/util/TripleMutex.o
+
+# target to build an object file
+src/main/sources/util/TripleMutex.cpp.o:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o
+.PHONY : src/main/sources/util/TripleMutex.cpp.o
+
+src/main/sources/util/TripleMutex.i: src/main/sources/util/TripleMutex.cpp.i
+
+.PHONY : src/main/sources/util/TripleMutex.i
+
+# target to preprocess a source file
+src/main/sources/util/TripleMutex.cpp.i:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.i
+.PHONY : src/main/sources/util/TripleMutex.cpp.i
+
+src/main/sources/util/TripleMutex.s: src/main/sources/util/TripleMutex.cpp.s
+
+.PHONY : src/main/sources/util/TripleMutex.s
+
+# target to generate assembly for a file
+src/main/sources/util/TripleMutex.cpp.s:
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.s
+.PHONY : src/main/sources/util/TripleMutex.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -627,51 +627,51 @@ help:
 	@echo "... src/main/sources/Circle.o"
 	@echo "... src/main/sources/Circle.i"
 	@echo "... src/main/sources/Circle.s"
-	@echo "... src/main/sources/ConnAccepter.o"
-	@echo "... src/main/sources/ConnAccepter.i"
-	@echo "... src/main/sources/ConnAccepter.s"
-	@echo "... src/main/sources/ConnManager.o"
-	@echo "... src/main/sources/ConnManager.i"
-	@echo "... src/main/sources/ConnManager.s"
-	@echo "... src/main/sources/Connection.o"
-	@echo "... src/main/sources/Connection.i"
-	@echo "... src/main/sources/Connection.s"
 	@echo "... src/main/sources/Entity.o"
 	@echo "... src/main/sources/Entity.i"
 	@echo "... src/main/sources/Entity.s"
 	@echo "... src/main/sources/Game.o"
 	@echo "... src/main/sources/Game.i"
 	@echo "... src/main/sources/Game.s"
-	@echo "... src/main/sources/Interpreter.o"
-	@echo "... src/main/sources/Interpreter.i"
-	@echo "... src/main/sources/Interpreter.s"
 	@echo "... src/main/sources/Map.o"
 	@echo "... src/main/sources/Map.i"
 	@echo "... src/main/sources/Map.s"
 	@echo "... src/main/sources/Player.o"
 	@echo "... src/main/sources/Player.i"
 	@echo "... src/main/sources/Player.s"
-	@echo "... src/main/sources/Room.o"
-	@echo "... src/main/sources/Room.i"
-	@echo "... src/main/sources/Room.s"
-	@echo "... src/main/sources/RoomManager.o"
-	@echo "... src/main/sources/RoomManager.i"
-	@echo "... src/main/sources/RoomManager.s"
-	@echo "... src/main/sources/TripleMutex.o"
-	@echo "... src/main/sources/TripleMutex.i"
-	@echo "... src/main/sources/TripleMutex.s"
+	@echo "... src/main/sources/connections/ConnAccepter.o"
+	@echo "... src/main/sources/connections/ConnAccepter.i"
+	@echo "... src/main/sources/connections/ConnAccepter.s"
+	@echo "... src/main/sources/connections/ConnManager.o"
+	@echo "... src/main/sources/connections/ConnManager.i"
+	@echo "... src/main/sources/connections/ConnManager.s"
+	@echo "... src/main/sources/connections/Connection.o"
+	@echo "... src/main/sources/connections/Connection.i"
+	@echo "... src/main/sources/connections/Connection.s"
+	@echo "... src/main/sources/connections/Room.o"
+	@echo "... src/main/sources/connections/Room.i"
+	@echo "... src/main/sources/connections/Room.s"
+	@echo "... src/main/sources/connections/RoomManager.o"
+	@echo "... src/main/sources/connections/RoomManager.i"
+	@echo "... src/main/sources/connections/RoomManager.s"
+	@echo "... src/main/sources/connections/publicInfo.o"
+	@echo "... src/main/sources/connections/publicInfo.i"
+	@echo "... src/main/sources/connections/publicInfo.s"
 	@echo "... src/main/sources/main.o"
 	@echo "... src/main/sources/main.i"
 	@echo "... src/main/sources/main.s"
-	@echo "... src/main/sources/publicInfo.o"
-	@echo "... src/main/sources/publicInfo.i"
-	@echo "... src/main/sources/publicInfo.s"
 	@echo "... src/main/sources/util/Dbg.o"
 	@echo "... src/main/sources/util/Dbg.i"
 	@echo "... src/main/sources/util/Dbg.s"
+	@echo "... src/main/sources/util/Interpreter.o"
+	@echo "... src/main/sources/util/Interpreter.i"
+	@echo "... src/main/sources/util/Interpreter.s"
 	@echo "... src/main/sources/util/Settings.o"
 	@echo "... src/main/sources/util/Settings.i"
 	@echo "... src/main/sources/util/Settings.s"
+	@echo "... src/main/sources/util/TripleMutex.o"
+	@echo "... src/main/sources/util/TripleMutex.i"
+	@echo "... src/main/sources/util/TripleMutex.s"
 .PHONY : help
 
 

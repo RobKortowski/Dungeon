@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
 #include <thread>
-#include "ConnAccepter.h"
+#include "connections/ConnAccepter.h"
 #include "util/Settings.h"
 #include "util/Dbg.h"
-#include "RoomManager.h"
+#include "connections/RoomManager.h"
 
 #define ROOM_INIT_COUNT 1
 

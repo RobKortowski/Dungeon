@@ -19,9 +19,9 @@
 #include <vector>
 #include <condition_variable>
 
-#include "publicInfo.h"
-#include "TripleMutex.h"
-#include "Connection.h"
+#include "connections/publicInfo.h"
+#include "util/TripleMutex.h"
+#include "connections/Connection.h"
 #include "Player.h"
 #include "Game.h"
 

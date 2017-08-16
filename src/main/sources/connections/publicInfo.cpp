@@ -11,7 +11,7 @@
  * Created on February 20, 2017, 10:50 PM
  */
 
-#include "publicInfo.h"
+#include "connections/publicInfo.h"
 
 publicInfo::publicInfo(int roomId) : roomId(roomId), playersCount(0), maxPlayers(10){
 }

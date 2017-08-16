@@ -81,105 +81,9 @@ CMakeFiles/dungeon.dir/src/main/sources/Action.cpp.o.provides: CMakeFiles/dungeo
 CMakeFiles/dungeon.dir/src/main/sources/Action.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Action.cpp.o
 
 
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o: src/main/sources/Room.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Room.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/Room.cpp > CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/Room.cpp -o CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o
-
-
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o: src/main/sources/Interpreter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Interpreter.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/Interpreter.cpp > CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/Interpreter.cpp -o CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o
-
-
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o: src/main/sources/RoomManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/RoomManager.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/RoomManager.cpp > CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/RoomManager.cpp -o CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o
-
-
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o: src/main/sources/TripleMutex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp > CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/TripleMutex.cpp -o CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o
-
-
 CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o: src/main/sources/Entity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Entity.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.i: cmake_force
@@ -201,9 +105,153 @@ CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o.provides: CMakeFiles/dungeo
 CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o
 
 
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o: src/main/sources/connections/Room.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/connections/Room.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/connections/Room.cpp > CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/connections/Room.cpp -o CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o
+
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o: src/main/sources/connections/RoomManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/connections/RoomManager.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/connections/RoomManager.cpp > CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/connections/RoomManager.cpp -o CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o
+
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o: src/main/sources/connections/ConnAccepter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/connections/ConnAccepter.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/connections/ConnAccepter.cpp > CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/connections/ConnAccepter.cpp -o CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o
+
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o: src/main/sources/connections/publicInfo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/connections/publicInfo.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/connections/publicInfo.cpp > CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/connections/publicInfo.cpp -o CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o
+
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o: src/main/sources/connections/Connection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/connections/Connection.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/connections/Connection.cpp > CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/connections/Connection.cpp -o CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o
+
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o: src/main/sources/connections/ConnManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/connections/ConnManager.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/connections/ConnManager.cpp > CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/connections/ConnManager.cpp -o CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o
+
+
 CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o: src/main/sources/Circle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Circle.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.i: cmake_force
@@ -227,7 +275,7 @@ CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o: src/main/sources/Map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Map.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.i: cmake_force
@@ -251,7 +299,7 @@ CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o.provides.build: CMakeFiles/dun
 
 CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o: src/main/sources/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/main.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/main.cpp.i: cmake_force
@@ -273,33 +321,9 @@ CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o.provides: CMakeFiles/dungeon.
 CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o
 
 
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o: src/main/sources/ConnAccepter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.cpp > CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/ConnAccepter.cpp -o CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o
-
-
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o: src/main/sources/util/Dbg.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/util/Dbg.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.i: cmake_force
@@ -321,9 +345,57 @@ CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o.provides: CMakeFiles/dung
 CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o
 
 
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o: src/main/sources/util/Interpreter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/util/Interpreter.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/util/Interpreter.cpp > CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/util/Interpreter.cpp -o CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o
+
+
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o: CMakeFiles/dungeon.dir/flags.make
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o: src/main/sources/util/TripleMutex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/util/TripleMutex.cpp
+
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/util/TripleMutex.cpp > CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.i
+
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/util/TripleMutex.cpp -o CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.s
+
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.requires:
+
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.requires
+
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.requires
+	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.provides.build
+.PHONY : CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.provides
+
+CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o
+
+
 CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o: src/main/sources/util/Settings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/util/Settings.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.i: cmake_force
@@ -345,33 +417,9 @@ CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.provides: CMakeFiles
 CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
 
 
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o: src/main/sources/publicInfo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/publicInfo.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/publicInfo.cpp > CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/publicInfo.cpp -o CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o
-
-
 CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o: src/main/sources/Player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Player.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.i: cmake_force
@@ -393,33 +441,9 @@ CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o.provides: CMakeFiles/dungeo
 CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o
 
 
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o: src/main/sources/Connection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Connection.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/Connection.cpp > CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/Connection.cpp -o CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o
-
-
 CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o: CMakeFiles/dungeon.dir/flags.make
 CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o: src/main/sources/Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/Game.cpp
 
 CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.i: cmake_force
@@ -439,30 +463,6 @@ CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o.provides: CMakeFiles/dungeon.
 .PHONY : CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o.provides
 
 CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o
-
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o: CMakeFiles/dungeon.dir/flags.make
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o: src/main/sources/ConnManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rob/projects/Dungeon/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o -c /home/rob/projects/Dungeon/src/main/sources/ConnManager.cpp
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rob/projects/Dungeon/src/main/sources/ConnManager.cpp > CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.i
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rob/projects/Dungeon/src/main/sources/ConnManager.cpp -o CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.s
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.requires:
-
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.requires
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.provides: CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.requires
-	$(MAKE) -f CMakeFiles/dungeon.dir/build.make CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.provides.build
-.PHONY : CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.provides
-
-CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.provides.build: CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o
 
 
 CMakeFiles/dungeon.dir/src/main/sources/AllBlocks.cpp.o: CMakeFiles/dungeon.dir/flags.make
@@ -492,44 +492,44 @@ CMakeFiles/dungeon.dir/src/main/sources/AllBlocks.cpp.o.provides.build: CMakeFil
 # Object files for target dungeon
 dungeon_OBJECTS = \
 "CMakeFiles/dungeon.dir/src/main/sources/Action.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o" \
+"CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o" \
-"CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o" \
 "CMakeFiles/dungeon.dir/src/main/sources/AllBlocks.cpp.o"
 
 # External object files for target dungeon
 dungeon_EXTERNAL_OBJECTS =
 
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Action.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o
+bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o
-bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/src/main/sources/AllBlocks.cpp.o
 bin/dungeon: CMakeFiles/dungeon.dir/build.make
 bin/dungeon: CMakeFiles/dungeon.dir/link.txt
@@ -542,22 +542,22 @@ CMakeFiles/dungeon.dir/build: bin/dungeon
 .PHONY : CMakeFiles/dungeon.dir/build
 
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Action.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Room.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Interpreter.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/RoomManager.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/TripleMutex.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Entity.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/connections/Room.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/connections/RoomManager.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnAccepter.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/connections/publicInfo.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/connections/Connection.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/connections/ConnManager.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Circle.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Map.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/main.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/ConnAccepter.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/util/Dbg.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/util/Interpreter.cpp.o.requires
+CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/util/TripleMutex.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/util/Settings.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/publicInfo.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Player.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Connection.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/Game.cpp.o.requires
-CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/ConnManager.cpp.o.requires
 CMakeFiles/dungeon.dir/requires: CMakeFiles/dungeon.dir/src/main/sources/AllBlocks.cpp.o.requires
 
 .PHONY : CMakeFiles/dungeon.dir/requires

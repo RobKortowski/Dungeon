@@ -16,9 +16,9 @@
 
 #include <vector>
 #include <atomic>
-#include "Room.h"
-#include "publicInfo.h"
-#include "Connection.h"
+#include "connections/Room.h"
+#include "connections/publicInfo.h"
+#include "connections/Connection.h"
 
 class RoomManager {
 public:

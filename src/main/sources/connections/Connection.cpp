@@ -1,6 +1,6 @@
-#include "Connection.h"
+#include "connections/Connection.h"
 #include "util/Dbg.h"
-#include "ConnAccepter.h"
+#include "connections/ConnAccepter.h"
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <iostream>

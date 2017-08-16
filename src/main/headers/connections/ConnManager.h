@@ -1,9 +1,9 @@
 #ifndef CONNMANAGER_H
 #define CONNMANAGER_H
 
-#include "Connection.h"
-#include "Interpreter.h"
-#include "RoomManager.h"
+#include "connections/Connection.h"
+#include "util/Interpreter.h"
+#include "connections/RoomManager.h"
 
 #include <vector>
 #include <thread>
