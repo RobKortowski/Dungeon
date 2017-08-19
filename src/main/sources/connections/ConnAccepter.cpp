@@ -18,6 +18,7 @@
 
 #define MYPORT 3450
 #define MAXQUEUE 15
+#define SERVER "37.59.112.52"
 
 using namespace std;
 
@@ -57,7 +58,7 @@ void ConnAccepter::tfunc() {
 int ConnAccepter::serverInit() {
     my_addr.sin_family = AF_INET; // filling up addres struct 
     my_addr.sin_port = htons(MYPORT);
-    my_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
+    my_addr.sin_addr.s_addr = inet_addr(SERVER);
     memset(&(my_addr.sin_zero), '\0', sizeof my_addr.sin_zero);
     sin_size = sizeof (struct sockaddr_in);
     if((sockfd = newSocket())==-1){
